@@ -17,3 +17,6 @@ These picnic areas are nice, but crazy windy and cold today
 
 This road called Miremont Rd, which I don't remember seeing, heads back to Hw72.  Something to explore next time.
 ![](https://raw.githubusercontent.com/cparker/xr-adventures/master/sunday-april-3-2016-gross-res/missed-road.png)
+
+Speed and elevation of the trip
+![](https://raw.githubusercontent.com/cparker/xr-adventures/master/sunday-april-3-2016-gross-res/speed-and-elevation.png)
